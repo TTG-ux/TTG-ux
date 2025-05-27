@@ -47,9 +47,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 </td></tr></table> 
 
-<table><tr></td><td valign="top" width="50%">
+<table><tr></td><td valign="top">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TTG-ux&theme=midnight_purple" align="left" style="width: 100%" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TTG-ux&theme=midnight_purple" align="left" />
 
 </td></tr></table>
 
