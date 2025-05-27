@@ -35,14 +35,21 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 🔗 [GitHub](https://github.com/TTG-ux/MK)
 
 
-## 📊 GIT STATS
+## Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=TTG-ux&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td></tr></table>
 
-</td><td valign="top" width="50%">
+<table><tr></td><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TTG-ux&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table> 
+
+<table><tr></td><td valign="top" width="50%">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=TTG-ux&theme=midnight_purple" align="left" style="width: 100%" />
 
 </td></tr></table>
 
