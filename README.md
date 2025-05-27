@@ -42,7 +42,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TTG-ux&theme=midnight_purple" align="left" />
 </td></tr></table>
 
-<table><tr></td><td valign="top">
+</td><td valign="top">
 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TTG-ux&theme=midnight_purple" align="left" />
 
