@@ -37,7 +37,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### 🤖 Project 3: Library Management System.
 > A convenient tool for librarians that will allow you to effectively track the movement of books, manage the reader base and control the timing of the return of literature.
 
-🔗 [GitHub]((https://github.com/TTG-ux/Library))
+🔗 [GitHub](https://github.com/TTG-ux/Library)
 
 
  
